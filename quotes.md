@@ -76,6 +76,8 @@ title: Quotes
 >
 > - Epictetus
 
+---
+
 > When I write, I feel like an armless, legless man with a crayon in his mouth.
 >
 > - Kurt Vonnegut
