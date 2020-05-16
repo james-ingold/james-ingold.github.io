@@ -28,6 +28,60 @@ title: Quotes
 
 ---
 
+> In the information age, the barriers just aren’t there. The barriers are
+> self-imposed. If you want to set off and go develop some grand new thing, you
+> don’t need millions of dollars of capitalization. You need enough pizza and
+> Diet Coke to stick in your refrigerator, a cheap PC to work on, and the
+> dedication to go through with it. We slept on floors. We waded across rivers.
+>
+> - John Carmack, Masters of Doom
+
+---
+
+> For any given project, there is some team size beyond which adding more people
+> will actually cause things to take longer. This is due to loss of efficiency
+> from chopping up problems, communication overhead, and entropy. It's even
+> easier to reduce quality by adding people. I contend that the max programming
+> team size for id is very small.
+>
+> - John Carmack, Masters of Doom
+
+---
+
+> It really comes down to work ethic. If you've got two equally talented people
+> and one works twice as hard as the other, that person is going to run away from
+> the other person.
+>
+> - John Carmack, Masters of Doom
+
+---
+
+> Life is about the real value of a real education, which has almost nothing to
+> do with knowledge, and everything to do with simple awareness; awareness of
+> what is so real and essential, so hidden in plain sight all around us , all the
+> time, that we have to keep reminding ourselves over and over: "This is water"
+>
+> - David Foster Wallace, This is Water
+
+---
+
+> An investment in knowledge always pays the best interest.
+>
+> - Ben Franklin
+
+---
+
+> If you wish to improve, be content to appear clueless or stupid in extraneous
+> matters.
+>
+> - Epictetus
+
+> When I write, I feel like an armless, legless man with a crayon in his mouth.
+>
+> - Kurt Vonnegut
+
+---
+
 > Woe to the statesman who makes war without a reason that will still be valid
 > when the war is over. After the war, you will all look differently at these
 > questions. Will you then have the courage to turn to the peasant contemplating
@@ -35,3 +89,9 @@ title: Quotes
 > lost hs children?
 >
 > - Otto Von Bismarck, Master Statesman
+
+---
+
+> People who try to look smart by pointing out obvious exceptions actually signal the opposite.
+>
+> - Naval Ravikant
