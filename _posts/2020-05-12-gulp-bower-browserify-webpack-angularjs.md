@@ -464,6 +464,8 @@ If you read this far, give me a shoutout on [Twitter](https://twitter.com/james_
 
 [Github Issue Megathread on Moment Locales / General Size Issues](https://github.com/moment/moment/issues/2517){:target="\_blank"}
 
+[More Moment and Locales Optimization](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack){:target="\_blank"}
+
 [Code-Splitting in Webpack](https://webpack.js.org/guides/code-splitting/){:target="\_blank"}
 
 [Compound Builds in VSCode](https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.bgkqbh54p){:target="\_blank"}
