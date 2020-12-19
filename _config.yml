@@ -2,7 +2,7 @@ title: James Ingold
 description: "Javascript, Kubernetes, NodeJS Blog | I build things | Developer | Entreprenuer"
 author:
   name: "James Ingold"
-  email: "yo@jamesiingold.com"
+  email: "yo@jamesingold.com"
   url: "https://jamesingold.com"
 twitter:
   username: jamesingold
@@ -31,6 +31,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+collections:
+  books:
+    output: true
 
 future: true
 plugins:
