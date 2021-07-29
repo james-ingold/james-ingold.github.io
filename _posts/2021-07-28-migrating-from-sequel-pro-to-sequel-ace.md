@@ -15,11 +15,11 @@ and if you have a Brewfile, add the cask "sequel-ace"
 
 #### Copy Preferences and Favorites
 
-```bash
+```
 cp ~/Library/Preferences/com.sequelpro.SequelPro.plist ~/Library/Containers/com.sequel-ace.sequel-ace/Data/Library/Preferences/com.sequel-ace.sequel-ace.plist
 ```
 
-```bash
+```
 cp ~/Library/Application\ Support/Sequel\ Pro/Data/Favorites.plist ~/Library/Containers/com.sequel-ace.sequel-ace/Data/Library/Application\ Support/Sequel\ Ace/Data/Favorites.plist
 ```
 
