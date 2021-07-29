@@ -52,7 +52,7 @@ done
 
 #### Wrapping Up
 
-Now we've got our Sequel Pro connections moved over and an actively maintained database GUI. We're ready for the next decade of coding on a Mac!
+Now we've got our Sequel Pro connections moved over to Sequel Ace, an actively maintained database GUI ready for the next decade of coding on a Mac!
 
 ##### References:
 
