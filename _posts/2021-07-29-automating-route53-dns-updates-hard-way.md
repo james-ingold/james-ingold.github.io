@@ -15,7 +15,7 @@ Boto, the python library for AWS, isn't the easiest to use for Route53. I'll bre
 
 ##### Python Script for Updating Route53 Entries
 
-Create new python file and add the following code:
+Create a new python file and add the following code:
 
 ```python
 #!/usr/bin/env python
