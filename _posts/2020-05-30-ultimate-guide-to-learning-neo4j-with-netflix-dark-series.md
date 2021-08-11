@@ -5,7 +5,7 @@ author: James Ingold
 published: true
 ---
 
-Netflix's Dark is the best TV series ever created. Hands down. Dark is a science fiction mind-bender and time twister where children in the town of Winden go missing. Folks in the town start asking questions and before you know it your head is spinning through multiple different universes as time unravels. Graph databases were built to handle highly-connected and complicated data. I can't think of better adverbs for Dark. Time and everything else is woven together, highly related and complex. Let's learn abut graph databases and explore Netflix's Dark TV Series as we pick up some Neo4j knowledge.
+Netflix's Dark is the best TV series ever created. Hands down. Dark is a science fiction mind-bender and time twister where children in the town of Winden go missing. Folks in the town start asking questions and before you know it your head is spinning through multiple different universes as time unravels. Graph databases were built to handle highly-connected and complicated data. I can't think of better adverbs for Dark. Time and everything else is woven together, highly related and complex. Let's learn about graph databases and explore Netflix's Dark TV Series as we pick up some Neo4j knowledge.
 
 This post is written just before Season 3 comes out, so we'll be making some predictions in this post.
 
