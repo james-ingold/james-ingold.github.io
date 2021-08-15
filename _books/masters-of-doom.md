@@ -29,4 +29,4 @@ David Kushner did a tremendous job with this novel. He got me excited and passio
 
 Review: 10/10
 
-[Get Masters of Doom](https://amzn.to/2AD6i4L){:target="\_blank"}
+[Get Masters of Doom](https://amzn.to/3hAHlbV){:target="\_blank"}
