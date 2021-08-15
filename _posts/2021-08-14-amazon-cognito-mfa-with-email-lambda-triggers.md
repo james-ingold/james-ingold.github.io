@@ -136,7 +136,7 @@ module.exports.handler = async event => {
 
 #### Verify Lifecycle Function
 
-In the verify lifecycle function, we take the code that the user inputted and the one we have in privateChallengeParameters to compare if they have inputted the right code. Amazon Cognito invokes this trigger to verify if the response from the end user for a custom Auth Challenge is valid or not. We also check the timestamp to make sure it's not expired. We set the challenge response property of answerCorrect based on if they answered correctly. You could have even more challenges and the custom challenge flow loop would repeat until all challenges are answered.
+In the verify lifecycle function, we take the code that the user inputted and the one we have in privateChallengeParameters to compare if they have the right code. Amazon Cognito invokes this trigger to verify if the response from the end user for a custom Auth Challenge is valid or not. We also check the timestamp to make sure it's not expired. We set the challenge response property of answerCorrect based on if they answered correctly. You could have even more challenges and the custom challenge flow loop would repeat until all challenges are answered.
 
 ```javascript
 const LINK_TIMEOUT = 30 * 60;
