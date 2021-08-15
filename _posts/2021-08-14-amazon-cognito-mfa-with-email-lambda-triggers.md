@@ -163,7 +163,7 @@ module.exports.handler = async event => {
 
 ##### Deploy the Project
 
-I've included a full [sample serverless.yaml here](https://github.com/james-ingold/cognito-mfa-email-example/blob/main/serverless.yml). You'll want to the following IAM role capabilities and the following function declarations. I'm using the Amazon Systems Parameter Store for setting the EMAIL_ADDRESS variable which was used in the Create lifecycle function
+I've included a full [sample serverless.yaml here](https://github.com/james-ingold/cognito-mfa-email-example/blob/main/serverless.yml). You'll want to have the following IAM role capabilities and the following function declarations. I'm using the Amazon Systems Parameter Store for setting the EMAIL_ADDRESS variable which was used in the Create lifecycle function
 
 serverless.yaml snippet
 
