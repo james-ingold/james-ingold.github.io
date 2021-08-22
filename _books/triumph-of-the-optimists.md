@@ -43,7 +43,7 @@ Four Rate Regimes over 20th Century:
 
 We can hope for, but we cannot expect, the optimists to triumph in the future. Future returns from equities are likely to be lower than those achieved in the recent decade
 
-Review: {{ review }}/10
+Review: 7/10
 
 [Get Triumph of the Optimists](https://amzn.to/3j6jYsU){:target="\_blank"}
 
