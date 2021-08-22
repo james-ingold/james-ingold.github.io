@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Triumph of the Optimists: 101 Years of Global Investment Returns
+title: Triumph of the Optimists
 year: 2021
 month: 6
 review: 7
