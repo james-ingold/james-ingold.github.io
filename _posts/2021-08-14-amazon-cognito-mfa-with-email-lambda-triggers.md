@@ -307,11 +307,10 @@ router.post("/login", async (req, res, next) => {
 
 ##### Verify Route: This handles responding to our auth challenge with Cognito which will call our verify lifecycle handler.
 
-```
-router.post('/verify', async (req, res, next) => {
+```javascript
+router.post("/verify", async (req, res, next) => {
   try {
-    let data = {}
-    const { email, password, confirmPassword, user, code } = req.body
+    const { email, password, confirmPassword, user, code } = req.body;
     const params = {
       ChallengeName: user.ChallengeName,
       ClientId: this.clientId,
@@ -321,23 +320,29 @@ router.post('/verify', async (req, res, next) => {
         SECRET_HASH: generateHash(email, this.secretHash, this.clientId)
       },
       Session: user.Session
-    }
-    const data = await this.cognitoIdentity.respondToAuthChallenge(params).promise()
+    };
+    const data = await this.cognitoIdentity
+      .respondToAuthChallenge(params)
+      .promise();
 
     // if we failed the custom challenge
-    if (!data.AuthenticationResult && user.ChallengeName === 'CUSTOM_CHALLENGE' && code) {
-      data.error = 'Invalid Code'
-      return res.json({ success: false, data: data })
+    if (
+      !data.AuthenticationResult &&
+      user.ChallengeName === "CUSTOM_CHALLENGE" &&
+      code
+    ) {
+      data.error = "Invalid Code";
+      return res.json({ success: false, data: data });
     } else {
       // add any user claims here
-      data.AuthenticationResult.UserClaims = {}
-      return res.json({ success: true, data: data })
+      data.AuthenticationResult.UserClaims = {};
+      return res.json({ success: true, data: data });
     }
   } catch (err) {
-    console.log(err)
-    res.sendStatus(500)
+    console.log(err);
+    res.sendStatus(500);
   }
-})
+});
 ```
 
 ### Conclusion
