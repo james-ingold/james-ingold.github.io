@@ -97,3 +97,18 @@ title: Quotes
 > People who try to look smart by pointing out obvious exceptions actually signal the opposite.
 >
 > - Naval Ravikant
+
+---
+
+> Hard times create strong men, strong men create good times, good times create
+> weak men, and weak men create hard times.
+>
+> - G. Michael Hopf (Those Who Remain)
+
+---
+
+> Revel in being discarded, or having all your energies exhausted in vain; only
+> those who have endured hardship will be of use. Samurai who have never erred
+> before will never have what it takes.
+>
+> - Hagakure, Book of the Samurai

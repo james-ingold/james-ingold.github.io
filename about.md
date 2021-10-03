@@ -12,3 +12,5 @@ I build things | Developer | Entreprenuer
 [Github](https://github.com/james-ingold)
 
 [LinkedIn](https://www.linkedin.com/in/james-ingold-44153183/)
+
+hey [@] jamesingold[dot]com
