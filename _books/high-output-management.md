@@ -7,6 +7,10 @@ review: 10
 author: James Ingold
 ---
 
+> A great deal of a manager's work has to do with allocating resources: manpower, money, and capital. But the single most important resource that we allocate from one day to the next is our own time. How you handle your own time, is in my view, the single most important aspect of being a role model and a leader.
+>
+> - Andy Grove
+
 High Output Manage written in 1983 by Andy Grove is a classic on management, possibly the best book on management I've read. It packs the most insight per sentence of any management book I've read. As Ben Horowitz states in the forward, there was nothing like it at the time. You can see this is one of the books where Tim Ferriss got a lot of inspiration from for the 4 Hour Work Week (lead domino theory, batching, Parkinson's law, and time being our most valuable resource). I’m weary of older books that have achieved cult like status because most of them have had their knowledge extracted and repackaged. However, Grove has plenty of aha moments packed into this short book decades later. Grove likens management and the world of a company such as Intel to a factory - a breakfast factory to be precise. He shows how to use key performance indicators to run the breakfast factory well - sales forecast, raw material inventory, manpower, condition of equipment, and quality. He recommends that what gets measured, gets managed. Grove also recommends that each step of a process be questioned and the output stressed to improve productivity.
 
 Grove approaches most areas on management in this book in a systematic way. He covers how management is a team game and that the quarterback doesn't win football games, teams do. He also goes over how to hold effective meetings and how leverage can be used to increase productivity. He is a big fan of training and provided training sessions himself at Intel. Grove has a chapter on how to make decisions where even at the time of writing, he has realized that in IT companies, there is a rapid divergence between power based on position and power based on knowledge. This occurs because the base of knowledge that constitutes the foundation of the business changes rapidly. Grove recognizes that knowledgeable people in the organization need to give their opinions and that a veteran manager is no longer a technical expert. "They might have been when they started. At Intel, we managers get more obsolete every day". You can tell that Grove elicited the opinions of as many as he reasonably could to make sure Intel made correct decisions.
@@ -15,7 +19,7 @@ At one point Grove gets into Maslow's heirarchy of needs and decribes where mone
 
 There are a ton of gems in this book. Grove covers the game of management from top to bottom. You can tell Andy Grove is highly intelligent but he has a way of writing and communicating that makes his thoughts accessible. That alone is a major feat, the CEO of Intel has honed his wisdom into pearls to teach you. This is a must read for entrepreneurs and managers. Sit down for a day with a notebook and read this book.
 
-Selected Notes:
+### Selected Notes:
 
 > Being a manager is not about how smart you are or how well you know your business, it’s about how that translates to the teams performance and output.
 
