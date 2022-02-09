@@ -374,3 +374,7 @@ Let me know what you think at hey[@]jamesingold.com
 [Great Article on Decorators and Metadata](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
 
 [Sequelize Typescript Decorators](https://github.com/synle/sequelize-typescript-decorators/blob/master/index.ts)
+
+[Why I want to build an AutoMapper in Typescript](https://nartc.netlify.app/blogs/automapper-typescript)
+
+[Typestack Class Transformer](https://github.com/typestack/class-transformer)
