@@ -75,8 +75,8 @@ There are two ways to reconstruct the tables. The first option is to use MySQL c
 
 #### Step 1.1: Use MySQL's command line utilities
 
-The Python MySQL connector is required. Download it from here: http://dev.mysql.com/downloads/connector/python/
-Download MySQL Utilities source code by selecting "Source Code" from "Select Platform" in http://dev.mysql.com/downloads/utilities/
+The Python MySQL connector is required. Download it from [here](http://dev.mysql.com/downloads/connector/python/).
+[Download MySQL Utilities](http://dev.mysql.com/downloads/utilities/) source code by selecting "Source Code" from "Select Platform".
 I downloaded the Windows distribution and unzipped it (running on a mac)
 From a terminal:
 
