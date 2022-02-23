@@ -5,8 +5,6 @@ author: James Ingold
 published: true
 ---
 
-# Restoring a MySQL Database from .frm and .ibd files on MacOS
-
 Ending 2020 by losing all your MySQL data seems about right doesn't it? I spent a full day recovering my data after updating to the latest Docker version on a NAS. It nuked my MySQL container in the process. Luckily, I had some database files but they were in .frm and .ibd format which are not easy to import, especially once the server is gone. In this article I'll show you how to restore your MySQL data on MacOS if you only have .frm and .ibd files available. Hopefully, this will save you some time if you are in the same position I found myself in.
 
 A brief overview of the files we have and what we'll be doing to salvage the data:
