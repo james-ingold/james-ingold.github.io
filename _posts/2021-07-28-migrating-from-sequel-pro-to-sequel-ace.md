@@ -5,7 +5,7 @@ author: James Ingold
 published: true
 ---
 
-Sequel Pro is a MySQL/MariaDB management GUI for macOS and it has been around for a long time. Sequel Pro's first release was in 2008 and at the time of this writing, the last one was in 2016. I've been using Sequel Pro for the past seven years but with the update to Big Sur, it's time to move on. Sequel Pro has become slow to use but I've continued on using it as a habit. A co-worker mentioned that the project forked into one called Sequel Ace. It's still [open source]("https://github.com/Sequel-Ace/Sequel-Ace") and actively maintained. Here's how to install Sequel Ace and pull over your favorite database connections from Sequel Pro with the least amount of headache.
+Sequel Pro is a MySQL/MariaDB management GUI for macOS and it has been around for a long time. Sequel Pro's first release was in 2008 and at the time of this writing, the last one was in 2016. I've been using Sequel Pro for the past seven years but with the update to Big Sur, it's time to move on. Sequel Pro has become slow to use but I've continued on using it as a habit. A co-worker mentioned that the project forked into one called Sequel Ace. It's still [open source](https://github.com/Sequel-Ace/Sequel-Ace) and actively maintained. Here's how to install Sequel Ace and pull over your favorite database connections from Sequel Pro with the least amount of headache.
 
 #### Install Sequel Ace
 
